@@ -1,0 +1,165 @@
+# view res/layout/number_picker_pref.xml #generated:25
+-keep class com.example.widget.NumberPicker { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.morphoss.acal.AcalApplication { <init>(...); }
+
+# view res/xml/main_preferences.xml #generated:88
+# view res/xml/main_preferences.xml #generated:95
+-keep class com.morphoss.acal.TimePickerPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class com.morphoss.acal.aCal { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.morphoss.acal.aCalNotes { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class com.morphoss.acal.aCalTasks { <init>(...); }
+
+# view AndroidManifest.xml #generated:276
+-keep class com.morphoss.acal.activity.AcalPreferences { <init>(...); }
+
+# view AndroidManifest.xml #generated:267
+-keep class com.morphoss.acal.activity.AlarmActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class com.morphoss.acal.activity.CollectionConfigList { <init>(...); }
+
+# view AndroidManifest.xml #generated:176
+-keep class com.morphoss.acal.activity.CollectionConfiguration { <init>(...); }
+
+# view res/xml/main_preferences.xml #generated:129
+-keep class com.morphoss.acal.activity.ColourPickerPreference { <init>(...); }
+
+# view res/layout/colourpicker_widget.xml #generated:5
+-keep class com.morphoss.acal.activity.ColourPickerView { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class com.morphoss.acal.activity.DebugSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:194
+-keep class com.morphoss.acal.activity.EventEdit { <init>(...); }
+
+# view AndroidManifest.xml #generated:185
+-keep class com.morphoss.acal.activity.EventView { <init>(...); }
+
+# view AndroidManifest.xml #generated:249
+-keep class com.morphoss.acal.activity.JournalEdit { <init>(...); }
+
+# view AndroidManifest.xml #generated:213
+-keep class com.morphoss.acal.activity.JournalListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:231
+-keep class com.morphoss.acal.activity.JournalView { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.morphoss.acal.activity.MonthView { <init>(...); }
+
+# view AndroidManifest.xml #generated:138
+-keep class com.morphoss.acal.activity.Settings { <init>(...); }
+
+# view AndroidManifest.xml #generated:258
+-keep class com.morphoss.acal.activity.ShowUpgradeChanges { <init>(...); }
+
+# view AndroidManifest.xml #generated:240
+-keep class com.morphoss.acal.activity.TodoEdit { <init>(...); }
+
+# view AndroidManifest.xml #generated:204
+-keep class com.morphoss.acal.activity.TodoListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:222
+-keep class com.morphoss.acal.activity.TodoView { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class com.morphoss.acal.activity.YearView { <init>(...); }
+
+# view AndroidManifest.xml #generated:118
+-keep class com.morphoss.acal.activity.serverconfig.AddServerList { <init>(...); }
+
+# view AndroidManifest.xml #generated:167
+-keep class com.morphoss.acal.activity.serverconfig.NewServerConfiguration { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.morphoss.acal.activity.serverconfig.ServerConfigList { <init>(...); }
+
+# view AndroidManifest.xml #generated:158
+-keep class com.morphoss.acal.activity.serverconfig.ServerConfiguration { <init>(...); }
+
+# view res/layout/show_upcoming_widget_custom_row.xml #generated:2
+-keep class com.morphoss.acal.desktop.ShowUpcomingRowLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:348
+-keep class com.morphoss.acal.desktop.ShowUpcomingWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:319
+-keep class com.morphoss.acal.providers.DavCollections { <init>(...); }
+
+# view AndroidManifest.xml #generated:311
+-keep class com.morphoss.acal.providers.PathSets { <init>(...); }
+
+# view AndroidManifest.xml #generated:307
+-keep class com.morphoss.acal.providers.Servers { <init>(...); }
+
+# view AndroidManifest.xml #generated:315
+-keep class com.morphoss.acal.providers.Timezones { <init>(...); }
+
+# view AndroidManifest.xml #generated:342
+-keep class com.morphoss.acal.receivers.StartUpIntentReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:358
+-keep class com.morphoss.acal.receivers.TimezoneChangedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:365
+-keep class com.morphoss.acal.receivers.iMIPReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:330
+-keep class com.morphoss.acal.service.AcalAuthenticator { <init>(...); }
+
+# view AndroidManifest.xml #generated:295
+-keep class com.morphoss.acal.service.ContactsSyncAdapterService { <init>(...); }
+
+# view AndroidManifest.xml #generated:323
+-keep class com.morphoss.acal.service.aCalService { <init>(...); }
+
+# view res/layout/year_view.xml #generated:11
+-keep class com.morphoss.acal.views.CustomYearDrawable { <init>(...); }
+
+# view res/layout/month_view_assets.xml #generated:12
+# view res/layout/month_view_assets.xml #generated:18
+# view res/layout/month_view_assets.xml #generated:24
+# view res/layout/month_view_assets.xml #generated:30
+# view res/layout/month_view_assets.xml #generated:6
+-keep class com.morphoss.acal.views.MonthDayBox { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.morphoss.acal.weekview.WeekViewActivity { <init>(...); }
+
+# view land/res/layout-land/week_view.xml #generated:41
+# view res/layout/week_view.xml #generated:43
+-keep class com.morphoss.acal.weekview.WeekViewDays { <init>(...); }
+
+# view land/res/layout-land/week_view.xml #generated:26
+# view res/layout/week_view.xml #generated:27
+-keep class com.morphoss.acal.weekview.WeekViewHeader { <init>(...); }
+
+# view land/res/layout-land/week_view.xml #generated:36
+# view res/layout/week_view.xml #generated:38
+-keep class com.morphoss.acal.weekview.WeekViewSideBar { <init>(...); }
+
+# view land/res/layout-land/month_view.xml #generated:20
+# view land/res/layout-land/month_view.xml #generated:29
+# view res/layout/month_view.xml #generated:15
+# view res/layout/month_view.xml #generated:26
+-keep class com.morphoss.acal.widget.AcalViewFlipper { <init>(...); }
+
+# view res/layout/number_picker_dialog.xml #generated:8
+-keep class com.morphoss.acal.widget.NumberPicker { <init>(...); }
+
+# view res/layout/number_picker.xml #generated:22
+# view res/layout/number_picker.xml #generated:37
+-keep class com.morphoss.acal.widget.NumberPickerButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:286
+-keep class com.morphoss.acal.widget.Picker { <init>(...); }
+

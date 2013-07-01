@@ -58,9 +58,9 @@
        Compiled code location: ${out.classes.absolute.dir}
        If this is not done in place, override ${out.dex.input.absolute.dir} */
 -->
-    <target name="-post-compile">
+   <!--  <target name="-post-compile">
 		<antcall target="optimize"/>
-    </target>
+    </target> -->
 	
 
 	<!-- We keep our keystore & credentials in here, but it isn't in version control -->
