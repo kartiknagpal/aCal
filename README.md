@@ -1,0 +1,1 @@
+##bin/aCal-debug.apk tested on Android-4.2.2 (API Level 17) @ emulator running on archlinux(linuxkernel-3.9)
